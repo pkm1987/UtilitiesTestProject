@@ -1,0 +1,45 @@
+ 
+Employee information form downloaded from Betterteam. 
+ 
+ 
+Company Name 
+Employee Information 
+Personal Information 
+Full Name:    
+ Last First M.I. 
+ 
+Address:   
+ Street Address Apartment/Unit # 
+ 
+    
+ City State ZIP Code 
+ 
+Home Phone:  Alternate Phone:  
+ 
+Email  
+SSN or Gov’t ID:  
+ 
+Birth Date:  Marital Status:  
+ 
+Spouse’s Name:  
+ 
+Spouse’s 
+Employer:  Spouse’s Work Phone:  
+Job Information 
+Title:  Employee ID:  
+Supervisor:  Department:  
+Work Location:  Email:  
+Work Phone:  Cell Phone:  
+Start Date:  Salary: $ 
+Emergency Contact Information 
+Full Name:    
+ Last First M.I. 
+ 
+Address:   
+ Street Address Apartment/Unit # 
+ 
+    
+ City State ZIP Code 
+ 
+Primary Phone:  Alternate Phone:  
+Relationship:  
